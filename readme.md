@@ -1,5 +1,7 @@
 # HTTPS-Scan Docker image to scan/crawl a given URL for insecure dependencies
 
+A https validation tool based on phantomjs. It can detect more dynamic loaded resources than static HTML analyze. 
+
 ## based upon
   - phantomjs
   - https-scan (https://github.com/zordius/https-scan)
